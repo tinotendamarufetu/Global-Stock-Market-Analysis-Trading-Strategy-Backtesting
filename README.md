@@ -47,7 +47,8 @@ The focus is on **data cleaning**, **exploratory analysis**, **market profiling*
 - **Correlation heatmaps** to measure relationships between markets.
 
 📊 *Example: Crisis impact plot*
-![Crisis Impact](<img width="923" height="496" alt="image" src="https://github.com/user-attachments/assets/7552863a-609d-4223-b0d0-4b21ad608644" />)
+![Crisis Impact]
+<img width="923" height="496" alt="image" src="https://github.com/user-attachments/assets/7552863a-609d-4223-b0d0-4b21ad608644" />
 
 📊 *Example: Correlatioon of Stocks Daily Returns*
 ![Corraltion of Dily Returns](<img width="680" height="612" alt="image" src="https://github.com/user-attachments/assets/a389dc3c-8439-489c-a8ae-e68c1570cd90" />)
