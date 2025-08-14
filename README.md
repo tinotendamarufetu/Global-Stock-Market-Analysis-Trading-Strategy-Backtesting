@@ -97,7 +97,7 @@ We analyzed portfolio drawdowns to understand risk in real terms:
 
 📊 *Example: Drawdown chart*
 ![Drawdowns]
-img width="785" height="377" alt="image" src="https://github.com/user-attachments/assets/af544d67-72d3-4450-8b8e-060431e33997" />
+<img width="785" height="377" alt="image" src="https://github.com/user-attachments/assets/af544d67-72d3-4450-8b8e-060431e33997" />
 
 ---
 
