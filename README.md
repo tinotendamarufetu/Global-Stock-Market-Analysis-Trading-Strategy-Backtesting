@@ -51,7 +51,8 @@ The focus is on **data cleaning**, **exploratory analysis**, **market profiling*
 <img width="923" height="496" alt="image" src="https://github.com/user-attachments/assets/7552863a-609d-4223-b0d0-4b21ad608644" />
 
 📊 *Example: Correlatioon of Stocks Daily Returns*
-![Corraltion of Dily Returns](<img width="680" height="612" alt="image" src="https://github.com/user-attachments/assets/a389dc3c-8439-489c-a8ae-e68c1570cd90" />)
+![Corraltion of Dily Returns]
+<img width="680" height="612" alt="image" src="https://github.com/user-attachments/assets/a389dc3c-8439-489c-a8ae-e68c1570cd90" />
 
 ---
 
@@ -64,7 +65,8 @@ We profiled each market to understand its **risk-return characteristics**.
 - **Tail Risk (VaR & CVaR)** → worst-case losses in the bottom 5% of returns.
 
 📊 *Example: Rolling volatility chart*
-![Rolling Volatility](<img width="943" height="380" alt="image" src="https://github.com/user-attachments/assets/1eef6268-490b-4e6a-ab42-a46a898e623b" />)
+![Rolling Volatility]
+<img width="943" height="380" alt="image" src="https://github.com/user-attachments/assets/1eef6268-490b-4e6a-ab42-a46a898e623b" />
 
 ---
 
@@ -78,7 +80,8 @@ We tested a **Golden Cross strategy** vs **Buy & Hold**:
 - Buy & Hold outperformed in strong bull markets.
 
 📊 *Example: Backtest equity curve*
-![Golden Cross Backtest](<img width="794" height="431" alt="image" src="https://github.com/user-attachments/assets/1d62ba71-6da8-4004-bf62-8a951798fbe4" />)
+![Golden Cross Backtest]
+<img width="794" height="431" alt="image" src="https://github.com/user-attachments/assets/1d62ba71-6da8-4004-bf62-8a951798fbe4" />
 
 ---
 
@@ -93,7 +96,8 @@ We analyzed portfolio drawdowns to understand risk in real terms:
 - Buy & Hold had longer, deeper drawdowns.
 
 📊 *Example: Drawdown chart*
-![Drawdowns](<img width="785" height="377" alt="image" src="https://github.com/user-attachments/assets/af544d67-72d3-4450-8b8e-060431e33997" />)
+![Drawdowns](
+img width="785" height="377" alt="image" src="https://github.com/user-attachments/assets/af544d67-72d3-4450-8b8e-060431e33997" />
 
 ---
 
